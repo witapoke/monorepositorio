@@ -1,0 +1,8 @@
+PUT http://localhost:3001/api/notes/64fdd3684ccf345fce9b770e
+Content-Type: application/json
+
+
+{
+    "content": "Nico de San Mauro, la corres de chorro",
+    "important":true
+}

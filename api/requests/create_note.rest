@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/notes
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0ZmZjNTEzMzUyMWJmOWU3NjU1OGUzMCIsInVzZXJuYW1lIjoid2l0YXBva2UiLCJpYXQiOjE2OTQ0ODQ2MzZ9.FKGVqYZJ2t94JPq7S_Ci9Y8GLpG8SR23JlyQiz7F6dQ
+
+{
+    "content": "Esta es la nota de Ernesto usando el middleware",
+    "important":true
+}
+
+
+
